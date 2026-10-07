@@ -1,0 +1,1 @@
+project(miniSens LANGUAGES CXX)
